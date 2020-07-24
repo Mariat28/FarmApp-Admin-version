@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "113629666814",
+    "firebase_url": "https://glo-sales-34240.firebaseio.com",
+    "project_id": "glo-sales-34240",
+    "storage_bucket": "glo-sales-34240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113629666814:android:17882eb96574934c1834af",
+        "android_client_info": {
+          "package_name": "com.example.glofarmerclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113629666814-cerqtk50540j6jrnmgh9nrde11769u27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glofarmerclient",
+            "certificate_hash": "3623492ebc127a6942c981d7af66af69701c7cd2"
+          }
+        },
+        {
+          "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoKJvkSvrE-P422oxI-KYv0pbUP7mD0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113629666814:android:6d6f26a911acc8211834af",
+        "android_client_info": {
+          "package_name": "com.example.glosales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113629666814-g70ikcrblfkubk01otu2qodreqmiptue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glosales",
+            "certificate_hash": "3623492ebc127a6942c981d7af66af69701c7cd2"
+          }
+        },
+        {
+          "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoKJvkSvrE-P422oxI-KYv0pbUP7mD0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113629666814:android:67a68e5ba6d8d6261834af",
+        "android_client_info": {
+          "package_name": "ug.global.glofarmadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113629666814-m419mohikgpopjfp308r5tmsm234t6b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.global.glofarmadmin",
+            "certificate_hash": "3623492ebc127a6942c981d7af66af69701c7cd2"
+          }
+        },
+        {
+          "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoKJvkSvrE-P422oxI-KYv0pbUP7mD0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113629666814:android:755faebe52faea6f1834af",
+        "android_client_info": {
+          "package_name": "ug.global.glofarmedited"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113629666814-i39k5cmp0vjq8i5edbqi7r1j891embsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.global.glofarmedited",
+            "certificate_hash": "3623492ebc127a6942c981d7af66af69701c7cd2"
+          }
+        },
+        {
+          "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWoKJvkSvrE-P422oxI-KYv0pbUP7mD0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113629666814-ddpc4kke888t3n8v1d1t9qj90oedsl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

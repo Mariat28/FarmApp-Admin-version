@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GloFarmAdmin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tempicon">icon</string>
+    <string name="stock_icon">icon</string>
+    <string name="verify">Verify</string>
+    <string name="suspend">Suspend</string>
+    <string name="verified">Verified</string>
+    <string name="suspended">Suspended</string>
+    <string name="add_supply">Add FAQs</string>
+    <string name="plant_supplies">Plant Supply</string>
+    <string name="animal_supplies">Animal Supply</string>
+    <string name="enter_supply_description_brand">Enter Supply description/brand</string>
+    <string name="enter_supply_name">Enter Supply name</string>
+    <string name="click_below_to_add_supply_image">Click below to add supply image</string>
+    <string name="save">SAVE</string>
+    <string name="clients">Farmers</string>
+    <string name="select_supply_category">Select Supply Category</string>
+    <string name="supplies">SUPPLIES</string>
+    <string name="enter_how_much_is_available_in_stock">Enter How much is available in stock</string>
+    <string name="enter_tool_name">Enter tool name</string>
+    <string name="enter_tool_price">Enter tool Price</string>
+    <string name="enter_supply_price">Enter supply price</string>
+    <string name="please_enter_frequently_asked_question">Please Enter Frequently Asked Question</string>
+    <string name="enter_answer">Enter Answer</string>
+</resources>
